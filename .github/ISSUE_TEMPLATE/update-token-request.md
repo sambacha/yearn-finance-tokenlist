@@ -1,9 +1,8 @@
 ---
 name: Update token request
 about: Update an existing token in the tokenlist.
-title: 'Request: update {Token name}'
+title: "Request: update {Token name}"
 labels: update-request
-
 ---
 
 - [ ] I understand that this is not the place to request a Uniswap token listing.
@@ -14,8 +13,8 @@ labels: update-request
 **Please provide the following information for your token.**
 
 Token Address: {0x...}
-Token Symbol: 
-Token Name: 
-Decimals: 
+Token Symbol:
+Token Name:
+Decimals:
 Logo: {attached or url}
 Link to the official homepage:

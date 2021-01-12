@@ -8,9 +8,9 @@ Template for creating a tokenlist and validating against Uniswap token schema.
 
 ## Resources
 
-* [Ethereum token lists](https://tokenlists.org/)
-* [https://github.com/Uniswap/token-lists](https://github.com/Uniswap/token-lists)
-* [Semantic versioning](https://github.com/Uniswap/token-lists/blob/master/README.md#semantic-versioning)
+- [Ethereum token lists](https://tokenlists.org/)
+- [https://github.com/Uniswap/token-lists](https://github.com/Uniswap/token-lists)
+- [Semantic versioning](https://github.com/Uniswap/token-lists/blob/master/README.md#semantic-versioning)
 
 ## Validation
 
@@ -44,11 +44,10 @@ This tokenlist is ment to aggregate the entire ecosystem into one list
 - SushiSwap
 - CREAM
 - COVER
-- Keep3r 
-- Akropolis 
+- Keep3r
+- Akropolis
 - etc . . .
 
-
-## License 
+## License
 
 Apache-2.0

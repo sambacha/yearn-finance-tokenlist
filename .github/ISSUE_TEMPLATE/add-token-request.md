@@ -1,9 +1,8 @@
 ---
 name: Add token request
 about: Add a token to the tokenlist
-title: 'Request: add {Token name}'
+title: "Request: add {Token name}"
 labels: add-request
-
 ---
 
 - [ ] I understand that this is not the place to request a Uniswap token listing.
@@ -14,8 +13,8 @@ labels: add-request
 **Please provide the following information for your token.**
 
 Token Address: {0x...}
-Token Symbol: 
-Token Name: 
-Decimals: 
+Token Symbol:
+Token Name:
+Decimals:
 Logo: {attached or url}
 Link to the official homepage:
