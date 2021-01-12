@@ -1,0 +1,23 @@
+{
+    "name": "tokenlist-template",
+    "version": "1.0.0",
+    "description": "Template for creating a tokenlist with schema validation",
+    "main": "index.mjs",
+    "dependencies": {},
+    "devDependencies": {
+      "@uniswap/token-lists": "^1.0.0-beta.16",
+      "ajv": "^6.12.4"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node --experimental-modules --experimental-json-modules ./index.mjs"
+    },
+    "keywords": [
+      "tokens",
+      "tokenlist",
+      "uniswap",
+      "schema",
+      "ethereum"
+    ]
+  }
+  
