@@ -1,7 +1,8 @@
 {
-    "name": "tokenlist-template",
+    "name": "@yfi/tokenlist",
     "version": "1.0.0",
-    "description": "Template for creating a tokenlist with schema validation",
+    "description": "Yearn Finance tokenlist with schema validation",
+    "license": "Apache-2.0",
     "main": "index.mjs",
     "dependencies": {},
     "devDependencies": {

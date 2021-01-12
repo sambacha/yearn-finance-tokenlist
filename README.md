@@ -1,4 +1,4 @@
-# tokenlist template
+# `Yearn Tokenlist`
 
 [![Schema](https://github.com/nathanjessen/tokenlist-template/workflows/Schema/badge.svg)](https://github.com/nathanjessen/tokenlist-template/actions?query=workflow%3ASchema)
 
@@ -37,29 +37,18 @@ If there is an error, the error will be output to the terminal.
 A GitHub workflow is included that automatically tests for validation any time there is a push or pull request.
 GitHub Issue Templates have been included to help manage new and existing tokens.
 
-## Branch Protection Rules
+## Ecosystem
 
-A best practice would be to create a new branch for any change and create a pull request to master. I recommend branch protection rules to prevent invalid changes from being merged into the repository.
+This tokenlist is ment to aggregate the entire ecosystem into one list
 
-Settings -> Branches
+- SushiSwap
+- CREAM
+- COVER
+- Keep3r 
+- Akropolis 
+- etc . . .
 
-Branch protection rules -> Add rule
 
-Branch name pattern: `master` or `main`
+## License 
 
-Check the boxes for
-
-* Require status checks to pass before merging
-* Require branches to be up to date before merging
-* build (may not be available until you save the page once)
-* Include administrators
-
-Save changes
-
-## Deploying your list
-
-You can paste the link to your raw json file in Uniswap.
-
-More information can be found at [https://github.com/Uniswap/token-lists#deploying-your-list](https://github.com/Uniswap/token-lists#deploying-your-list)
-
-After you've used the tokenlist on Uniswap, Uniswap will discover any change you make to the tokenlist as long as you follow the Semantic versioning instructions.
+Apache-2.0
