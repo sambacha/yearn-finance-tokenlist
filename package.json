@@ -1,24 +1,23 @@
 {
-    "name": "@yfi/tokenlist",
-    "version": "1.0.0",
-    "description": "Yearn Finance tokenlist with schema validation",
-    "license": "Apache-2.0",
-    "main": "index.mjs",
-    "dependencies": {},
-    "devDependencies": {
-      "@uniswap/token-lists": "^1.0.0-beta.16",
-      "ajv": "^6.12.4"
-    },
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node --experimental-modules --experimental-json-modules ./index.mjs"
-    },
-    "keywords": [
-      "tokens",
-      "tokenlist",
-      "uniswap",
-      "schema",
-      "ethereum"
-    ]
-  }
-  
+  "name": "@yfi/tokenlist",
+  "version": "1.0.1",
+  "description": "Yearn Finance tokenlist with schema validation",
+  "license": "Apache-2.0",
+  "main": "index.mjs",
+  "dependencies": {},
+  "devDependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.16",
+    "ajv": "^6.12.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules --experimental-json-modules ./index.mjs"
+  },
+  "keywords": [
+    "tokens",
+    "tokenlist",
+    "uniswap",
+    "schema",
+    "ethereum"
+  ]
+}
