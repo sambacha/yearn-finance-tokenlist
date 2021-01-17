@@ -15,13 +15,6 @@
 <br />
 
 
-
-[![Schema](https://github.com/nathanjessen/tokenlist-template/workflows/Schema/badge.svg)](https://github.com/nathanjessen/tokenlist-template/actions?query=workflow%3ASchema)
-
-**Update this badge with your own repository address when you clone/fork the repository.**
-
-Template for creating a tokenlist and validating against Uniswap token schema.
-
 ## Resources
 
 - [Yearn Finance](https://yearn.finance]
