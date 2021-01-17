@@ -1,13 +1,23 @@
-# `Yearn Tokenlist`
+<!-- copyright 2020 yearn.finance && the contributors -->
+<p align="center">
+ <img src="https://raw.githubusercontent.com/gist/sambacha/9a62174a080ead34271ff5d187a24343/raw/02cad2900f4cedb87895cc57729030e095d2869f/gh_banner.svg" align="right" width="350">
+	<h1 align="left">Yearn Finance Ecosystem Tokenlist </h1>
+ <h3 align="center"> </h3>
+ <p align="center">
+<align="center">
 
-[![Schema](https://github.com/nathanjessen/tokenlist-template/workflows/Schema/badge.svg)](https://github.com/nathanjessen/tokenlist-template/actions?query=workflow%3ASchema)
+ [![Twitter Follow](https://img.shields.io/twitter/follow/iearnfinance.svg?label=iearnfinance&style=social)](https://twitter.com/iearnfinance) [![Discord](https://img.shields.io/discord/734804446353031319.svg?color=768AD4&label=discord&logo=https%3A%2F%2Fdiscordapp.com%2Fassets%2F8c9701b98ad4372b58f13fd9f65f966e.svg)](https://discordapp.com/channels/734804446353031319/) [![Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue.svg)](https://t.me/yearnfinance) <img alt="Discourse users" src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fgov.yearn.finance%2F">
 
-**Update this badge with your own repository address when you clone/fork the repository.**
+ </center>
+  </p>
+</p>
+<br />
+<br />
 
-Template for creating a tokenlist and validating against Uniswap token schema.
 
 ## Resources
 
+- [Yearn Finance](https://yearn.finance]
 - [Ethereum token lists](https://tokenlists.org/)
 - [https://github.com/Uniswap/token-lists](https://github.com/Uniswap/token-lists)
 - [Semantic versioning](https://github.com/Uniswap/token-lists/blob/master/README.md#semantic-versioning)
@@ -46,7 +56,7 @@ This tokenlist is ment to aggregate the entire ecosystem into one list
 - COVER
 - Keep3r
 - Akropolis
-- etc . . .
+
 
 ## License
 
