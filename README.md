@@ -17,14 +17,11 @@
 
 ## Resources
 
-- [Yearn Finance](https://yearn.finance]
+- [Yearn Finance](https://yearn.finance)
 - [Ethereum token lists](https://tokenlists.org/)
 - [https://github.com/Uniswap/token-lists](https://github.com/Uniswap/token-lists)
 - [Semantic versioning](https://github.com/Uniswap/token-lists/blob/master/README.md#semantic-versioning)
 
-## Validation
-
-Validation must pass for the tokenlist to work on Uniswap.
 
 ### Local Testing
 
