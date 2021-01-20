@@ -1,6 +1,6 @@
 {
   "name": "@yfi/tokenlist",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Yearn Finance tokenlist with schema validation",
   "license": "Apache-2.0",
   "main": "index.mjs",
