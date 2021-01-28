@@ -7,7 +7,7 @@
   "dependencies": {},
   "devDependencies": {
     "@uniswap/token-lists": "1.0.0-beta.19",
-    "ajv": "6.12.6",
+    "ajv": "7.0.3",
     "semantic-release": "17.3.7"
   },
   "scripts": {
