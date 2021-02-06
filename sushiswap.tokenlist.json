@@ -775,10 +775,274 @@
       "symbol": "pWING",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/logo_R02_WING_black_80x80.svg"
+    },
+    {
+      "address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+      "chainId": 1,
+      "name": "NFTX",
+      "symbol": "NFTX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13574/small/nftx.png?1609880030"
+    },
+    {
+      "address": "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
+      "chainId": 1,
+      "name": "Basis Cash",
+      "symbol": "BAC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13246/small/BAC.jpg?1606708629"
+    },
+    {
+      "address": "0xC36824905dfF2eAAEE7EcC09fCC63abc0af5Abc5",
+      "chainId": 1,
+      "name": "Basis Bond",
+      "symbol": "BAB",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/basiscash-bab_32.png"
+    },
+    {
+      "address": "0x798d1be841a82a273720ce31c822c61a67a601c3",
+      "chainId": 1,
+      "name": "Digg",
+      "symbol": "DIGG",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/digg_logo.png"
+    },
+    {
+      "address": "0x9cea2ed9e47059260c97d697f82b8a14efa61ea5",
+      "chainId": 1,
+      "name": "Punk",
+      "symbol": "PUNK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/Punk_Icon_Big.png"
+    },
+    {
+      "address": "0x0000000000095413afc295d19edeb1ad7b71c952",
+      "chainId": 1,
+      "name": "LON Token",
+      "symbol": "LON",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13454/small/lon_logo.png?1608701720"
+    },
+    {
+      "address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
+      "chainId": 1,
+      "name": "API3",
+      "symbol": "API3",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13256/small/api3.jpg?1606751424"
+    },
+    {
+      "address": "0xffffffff2ba8f66d4e51811c5190992176930278",
+      "chainId": 1,
+      "name": "Furucombo",
+      "symbol": "COMBO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13629/small/COMBO_token_ol.png?1610701537"
+    },
+    {
+      "address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+      "chainId": 1,
+      "name": "Huobi BTC",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12407/small/Unknown-5.png?1599624896"
+    },
+    {
+      "address": "0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7",
+      "chainId": 1,
+      "name": "MarsToken",
+      "symbol": "MARS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13654/small/MARS.png?1610575403"
+    },
+    {
+      "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "chainId": 1,
+      "name": "Lido DAO",
+      "symbol": "LDO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13573/small/Lido_DAO.png?1609873644"
+    },
+    {
+      "address": "0x1337def16f9b486faed0293eb623dc8395dfe46a",
+      "chainId": 1,
+      "name": "Armor",
+      "symbol": "ARMOR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13748/small/armor.png?1611425846"
+    },
+    {
+      "address": "0x43632e3448cd47440fee797258081414d91a58ce",
+      "chainId": 1,
+      "name": "Armor NXM",
+      "symbol": "arNXM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/arNXM_coin_1024px.png"
+    },
+    {
+      "address": "0x0000000000085d4780b73119b644ae5ecd22b376",
+      "chainId": 1,
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/3449/small/TUSD.png?1559172762"
+    },
+    {
+      "address": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+      "chainId": 1,
+      "name": "Aleph",
+      "symbol": "ALEPH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11676/small/Monochram-aleph.png?1608483725"
+    },
+    {
+      "address": "0xfa2562da1bba7b954f26c74725df51fb62646313",
+      "chainId": 1,
+      "name": "ASSY Index",
+      "symbol": "ASSY",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13747/small/assy.png?1611425796"
+    },
+    {
+      "address": "0x42d6622dece394b54999fbd73d108123806f6a18",
+      "chainId": 1,
+      "name": "SpankChain",
+      "symbol": "SPANK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/1226/small/spankchain.png?1548610811"
+    },
+    {
+      "address": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
+      "chainId": 1,
+      "name": "Meta",
+      "symbol": "MTA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11846/small/mStable.png?1594950533"
+    },
+    {
+      "address": "0x374cb8c27130e2c9e04f44303f3c8351b9de61c1",
+      "chainId": 1,
+      "name": "Bao Finance",
+      "symbol": "BAO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13547/small/bao.PNG?1609713518"
+    },
+    {
+      "address": "0xd291e7a03283640fdc51b121ac401383a46cc623",
+      "chainId": 1,
+      "name": "Rari Governance Token",
+      "symbol": "RGT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12900/small/rgt_logo.png?1603340632"
+    },
+    {
+      "address": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
+      "chainId": 1,
+      "name": "Idle",
+      "symbol": "IDLE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13286/small/token-logo.png?1607004948"
+    },
+    {
+      "address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+      "chainId": 1,
+      "name": "ankrETH",
+      "symbol": "AETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13403/small/ankr.png?1608764406"
+    },
+    {
+      "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+      "chainId": 1,
+      "name": "Stake DAO",
+      "symbol": "SDT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13724/small/stakedao_logo.jpg?1611195011"
+    },
+    {
+      "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+      "chainId": 1,
+      "name": "Gnosis",
+      "symbol": "GNO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png?1609402668"
+    },
+    {
+      "address": "0x853d955acef822db058eb8505911ed77f175b99e",
+      "chainId": 1,
+      "name": "Frax",
+      "symbol": "FRAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/small/frax_logo.png?1608476506"
+    },
+    {
+      "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+      "chainId": 1,
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13423/small/frax_share.png?1608478989"
+    },
+    {
+      "address": "0x888888888889c00c67689029d7856aac1065ec11",
+      "chainId": 1,
+      "name": "Opium Governance Token",
+      "symbol": "OPIUM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/opium-token-black.png"
+    },
+    {
+      "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+      "chainId": 1,
+      "name": "Fantom Token",
+      "symbol": "FTM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/logomark%20white.svg"
+    },
+    {
+      "address": "0xc5bddf9843308380375a611c18b50fb9341f502a",
+      "chainId": 1,
+      "name": "veCRV-DAO yVault",
+      "symbol": "yveCRV-DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/logo-128.png"
+    },
+    {
+      "address": "0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e",
+      "chainId": 1,
+      "name": "NameChangeToken",
+      "symbol": "NCT",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/namechange_32.png"
+    },
+    {
+      "address": "0x3832d2f059e55934220881f831be501d180671a7",
+      "chainId": 1,
+      "name": "renDOGE",
+      "symbol": "renDOGE",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/doge-sushi.png"
+    },
+    {
+      "address": "0xeea3311250fe4c3268f8e684f7c87a82ff183ec1",
+      "chainId": 1,
+      "name": "Interest Bearing Ether v2",
+      "symbol": "ibETHv2",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/13131/small/7675.png?1605535879"
+    },
+    {
+      "address": "0x0fe629d1e84e171f8ff0c1ded2cc2221caa48a3f",
+      "chainId": 1,
+      "name": "NFTX Hashmasks Index",
+      "symbol": "MASK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13873/small/nftx.png?1612448203"
     }
   ],
   "version": {
-    "major": 14,
+    "major": 29,
     "minor": 0,
     "patch": 0
   }
