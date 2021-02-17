@@ -814,7 +814,7 @@
       "name": "Punk",
       "symbol": "PUNK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/Punk_Icon_Big.png"
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-cryptopunks-40-1.png"
     },
     {
       "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
@@ -1103,10 +1103,90 @@
       "symbol": "oneBTC",
       "decimals": 9,
       "logoURI": "https://www.ichi.farm/static/media/oneBTC.3ddd7597.svg"
+    },
+    {
+      "address": "0xf99d58e463A2E07e5692127302C20A191861b4D6",
+      "chainId": 1,
+      "name": "Anyswap",
+      "symbol": "ANY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/anyswap/Brand-assets/master/logo/c-256-color-2%403x.png"
+    },
+    {
+      "address": "0x945Facb997494CC2570096c74b5F66A3507330a1",
+      "chainId": 1,
+      "name": "mStable BTC",
+      "symbol": "mBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/mstable_logo_asssets_circle_mBTC%20(1).png"
+    },
+    {
+      "address": "0xDFe66B14D37C77F4E9b180cEb433d1b164f0281D",
+      "chainId": 1,
+      "name": "stakedETH",
+      "symbol": "stETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/stETH.png"
+    },
+    {
+      "address": "0xAE1eaAE3F627AAca434127644371b67B18444051",
+      "chainId": 1,
+      "name": "YOP",
+      "symbol": "YOP",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/YOP-trimera200.png"
+    },
+    {
+      "address": "0xEF5C6A88710a3C857105058F947D249bc490909D",
+      "chainId": 1,
+      "name": "wanWASP",
+      "symbol": "wanWASP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/wasp.jpg"
+    },
+    {
+      "address": "0x69BbE2FA02b4D90A944fF328663667DC32786385",
+      "chainId": 1,
+      "name": "Punk-Basic",
+      "symbol": "PUNK-BASIC",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-basic-40.png"
+    },
+    {
+      "address": "0x27Ffed7E5926Fb2795fC85aAab558243F280A8a2",
+      "chainId": 1,
+      "name": "Punk-Female",
+      "symbol": "PUNK-FEMALE",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-female-40.png"
+    },
+    {
+      "address": "0x49706a576bb823cdE3180C930F9947d59e2deD4D",
+      "chainId": 1,
+      "name": "Punk-Attr-4",
+      "symbol": "PUNK-ATTR-4",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-attr-4-40.png"
+    },
+    {
+      "address": "0xAB9c92A9337A1494C6D545E48187Fa37144403c8",
+      "chainId": 1,
+      "name": "Punk-Attr-5",
+      "symbol": "PUNK-ATTR-5",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-attr-5-40.png"
+    },
+    {
+      "address": "0xF18ade29a225fAa555e475eE01F9Eb66eb4a3a74",
+      "chainId": 1,
+      "name": "Punk-Zombie",
+      "symbol": "PUNK-ZOMBIE",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-zombies-40.png"
     }
   ],
   "version": {
-    "major": 39,
+    "major": 45,
     "minor": 0,
     "patch": 0
   }
