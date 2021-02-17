@@ -22,7 +22,7 @@ jobs:
       uses: wei/wget@v1
       with:
         args: -O sushiswap.json https://raw.githubusercontent.com/sushiswapclassic/token-list/master/sushiswap.tokenlist.json
-    - name: Generate TXT and JSON files for all assets
+    - name: Tokenlist Data
       run: |
         mkdir data
     - name: Commit files
@@ -31,16 +31,13 @@ jobs:
         git config user.email github-actions@github.com
         git checkout lists
         rm sushiswap.tokenlist.json
-        mv data/* .
-        date --rfc-3339=seconds | sed 's/ /T/' >> VERSION
         git add *.json -f
-        git add VERSION
         git commit -m "chore(sync): sushiswap: $(date)" -a || true
         git tag `date "+lists-%Y%m%d%H%M%S"`
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: lists
+        branch: tokenlists
         force: true
         tags: true
