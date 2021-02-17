@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v2.3.4
       with:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
@@ -27,8 +27,8 @@ jobs:
         mkdir data
     - name: Commit files
       run: |
-        git config --global user.name "$(git --no-pager log --format=format:'%an' -n 1)"
-        git config --global user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+        git config user.name github-actions
+        git config user.email github-actions@github.com
         git checkout lists
         rm sushiswap.tokenlist.json
         mv data/* .
@@ -36,8 +36,11 @@ jobs:
         git add *.json -f
         git add VERSION
         git commit -m "chore(sync): sushiswap: $(date)" -a || true
+        git tag `date "+lists-%Y%m%d%H%M%S"`
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: lists
+        force: true
+        tags: true
