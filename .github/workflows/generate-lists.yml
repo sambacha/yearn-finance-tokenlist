@@ -21,7 +21,7 @@ jobs:
     - name: Fetch SushiSwap Tokenlist 
       uses: wei/wget@v1
       with:
-        args: https://raw.githubusercontent.com/sushiswapclassic/token-list/master/sushiswap.tokenlist.json
+        args: -O sushiswap.json https://raw.githubusercontent.com/sushiswapclassic/token-list/master/sushiswap.tokenlist.json
     - name: Generate TXT and JSON files for all assets
       run: |
         mkdir data
@@ -30,8 +30,11 @@ jobs:
         git config --global user.name "$(git --no-pager log --format=format:'%an' -n 1)"
         git config --global user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
         git checkout lists
+        rm sushiswap.tokenlist.json
         mv data/* .
+        date --rfc-3339=seconds | sed 's/ /T/' >> VERSION
         git add *.json -f
+        git add VERSION
         git commit -m "chore(sync): sushiswap: $(date)" -a || true
     - name: Push changes
       uses: ad-m/github-push-action@master
