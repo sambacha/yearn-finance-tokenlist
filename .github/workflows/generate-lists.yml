@@ -29,7 +29,7 @@ jobs:
       run: |
         git config user.name github-actions
         git config user.email github-actions@github.com
-        git checkout lists
+        git checkout -B lists
         rm sushiswap.tokenlist.json
         git add *.json -f
         git commit -m "chore(sync): sushiswap: $(date)" -a || true
