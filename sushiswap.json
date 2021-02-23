@@ -1183,10 +1183,114 @@
       "symbol": "PUNK-ZOMBIE",
       "decimals": 18,
       "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-zombies-40.png"
+    },
+    {
+      "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
+      "chainId": 1,
+      "name": "VesperToken",
+      "symbol": "VSP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/vesper_logo.png"
+    },
+    {
+      "address": "0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B",
+      "chainId": 1,
+      "name": "Jarvis Synthetic Euro",
+      "symbol": "jEUR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B/logo.png"
+    },
+    {
+      "address": "0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0",
+      "chainId": 1,
+      "name": "Jarvis Synthetic Swiss Franc",
+      "symbol": "jCHF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0/logo.png"
+    },
+    {
+      "address": "0x7409856CAE628f5d578B285B45669b36E7005283",
+      "chainId": 1,
+      "name": "Jarvis Synthetic British Pound",
+      "symbol": "jGBP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7409856CAE628f5d578B285B45669b36E7005283/logo.png"
+    },
+    {
+      "address": "0xE0aD1806Fd3E7edF6FF52Fdb822432e847411033",
+      "chainId": 1,
+      "name": "OnX.finance",
+      "symbol": "ONX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/onx.png"
+    },
+    {
+      "address": "0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
+      "chainId": 1,
+      "name": "Premia",
+      "symbol": "PREMIA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70/logo.png"
+    },
+    {
+      "address": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
+      "chainId": 1,
+      "name": "Wrapped SCRT",
+      "symbol": "WSCRT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/13767/small/Secret_S_Black_Coingecko.png?1611667298"
+    },
+    {
+      "address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+      "chainId": 1,
+      "name": "Neutrino USD",
+      "symbol": "USDN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/10117/small/78GWcZu.png?1600845716"
+    },
+    {
+      "address": "0x5245C0249e5EEB2A0838266800471Fd32Adb1089",
+      "chainId": 1,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/13928/small/PSigc4ie_400x400.jpg?1612875614"
+    },
+    {
+      "address": "0x1456688345527bE1f37E9e627DA0837D6f08C925",
+      "chainId": 1,
+      "name": "USDP Stablecoin",
+      "symbol": "USDP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/iearn-finance/yearn-assets/master/icons/tokens/0x1456688345527bE1f37E9e627DA0837D6f08C925/logo-128.png"
+    },
+    {
+      "address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
+      "chainId": 1,
+      "name": "COL",
+      "symbol": "COL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/iearn-finance/yearn-assets/master/icons/tokens/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55/logo-128.png"
+    },
+    {
+      "address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
+      "chainId": 1,
+      "name": "DAO Maker",
+      "symbol": "DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/0x0f51bb10119727a7e5ea3538074fb341f56b09ad.png"
+    },
+    {
+      "address": "0x9D79d5B61De59D882ce90125b18F74af650acB93",
+      "chainId": 1,
+      "name": "Neutrino System Base Token",
+      "symbol": "NSBT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/2021-02-21%2019.49.17.jpg"
     }
   ],
   "version": {
-    "major": 45,
+    "major": 57,
     "minor": 0,
     "patch": 0
   }
