@@ -1287,10 +1287,74 @@
       "symbol": "NSBT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/2021-02-21%2019.49.17.jpg"
+    },
+    {
+      "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+      "chainId": 1,
+      "name": "The Graph",
+      "symbol": "GRT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566"
+    },
+    {
+      "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
+      "chainId": 1,
+      "name": "Offshift",
+      "symbol": "XFT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11977/small/offshift_logo.png?1596597308"
+    },
+    {
+      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "chainId": 1,
+      "name": "0x",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/863/small/0x.png?1547034672"
+    },
+    {
+      "address": "0x24A6A37576377F63f194Caa5F518a60f45b42921",
+      "chainId": 1,
+      "name": "Float Bank",
+      "symbol": "BANK",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/floatbank_32.png"
+    },
+    {
+      "address": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
+      "chainId": 1,
+      "name": "Linear Token",
+      "symbol": "LINA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12509/small/linear.jpg?1606884470"
+    },
+    {
+      "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+      "chainId": 1,
+      "name": "Perpetual Protocol",
+      "symbol": "PERP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12381/small/perpetual_protocol_logo.jpg?1599469619"
+    },
+    {
+      "address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
+      "chainId": 1,
+      "name": "Unit Protocol",
+      "symbol": "DUCK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13359/small/unit_telegram.png?1607878022"
+    },
+    {
+      "address": "0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
+      "chainId": 1,
+      "name": "DEXTF",
+      "symbol": "DEXTF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12634/small/DEXTFiconNEGATIVE-page-001.jpg?1601349042"
     }
   ],
   "version": {
-    "major": 57,
+    "major": 59,
     "minor": 0,
     "patch": 0
   }
