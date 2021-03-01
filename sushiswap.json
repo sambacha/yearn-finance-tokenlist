@@ -782,7 +782,7 @@
       "name": "NFTX",
       "symbol": "NFTX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13574/small/nftx.png?1609880030"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x87d73E916D7057945c9BcD8cdd94e42A6F47f776/logo.png"
     },
     {
       "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
@@ -1124,7 +1124,7 @@
       "address": "0xDFe66B14D37C77F4E9b180cEb433d1b164f0281D",
       "chainId": 1,
       "name": "stakedETH",
-      "symbol": "stETH",
+      "symbol": "stETH/StakeHound",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/stETH.png"
     },
@@ -1302,7 +1302,7 @@
       "name": "Offshift",
       "symbol": "XFT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11977/small/offshift_logo.png?1596597308"
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/xft_logo.png"
     },
     {
       "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
@@ -1351,10 +1351,26 @@
       "symbol": "DEXTF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12634/small/DEXTFiconNEGATIVE-page-001.jpg?1601349042"
+    },
+    {
+      "address": "0x888888435FDe8e7d4c54cAb67f206e4199454c60",
+      "chainId": 1,
+      "name": "DFX",
+      "symbol": "DFX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/DFX%20-%20Final%20Logo%20(solo).png"
+    },
+    {
+      "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+      "chainId": 1,
+      "name": "Alchemix",
+      "symbol": "ALCX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/alchemix.jpg"
     }
   ],
   "version": {
-    "major": 59,
+    "major": 67,
     "minor": 0,
     "patch": 0
   }
