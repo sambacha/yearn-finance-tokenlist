@@ -23,7 +23,13 @@
 
 ## Overview
 
-This is being expanded to include the contract registry
+```bash
+npm install yearn-tokenlist
+```
+
+[npm yearn-tokenlist](https://www.npmjs.com/package/yearn-tokenlist)
+
+<br>
 
 ### Local Testing
 
