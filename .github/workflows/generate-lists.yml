@@ -32,7 +32,7 @@ jobs:
         git checkout -B lists
         git add *.json -f
         git commit -m "chore(sync): sushiswap: $(date)" -a || true
-        git tag `date "+lists-%Y%m%d%H%M%S"`
+        git tag `date "+lists-%Y%m%d"`
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
