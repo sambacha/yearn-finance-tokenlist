@@ -1,11 +1,7 @@
 {
   "name": "SushiSwap Menu",
   "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png",
-  "keywords": [
-    "sushiswap",
-    "sushi",
-    "swap"
-  ],
+  "keywords": ["sushiswap", "sushi", "swap"],
   "timestamp": "2020-09-01T00:00:00+00:00",
   "tokens": [
     {
