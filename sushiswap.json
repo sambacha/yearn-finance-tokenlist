@@ -1,7 +1,11 @@
 {
   "name": "SushiSwap Menu",
   "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png",
-  "keywords": ["sushiswap", "sushi", "swap"],
+  "keywords": [
+    "sushiswap",
+    "sushi",
+    "swap"
+  ],
   "timestamp": "2020-09-01T00:00:00+00:00",
   "tokens": [
     {
@@ -869,7 +873,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13748/small/armor.png?1611425846"
     },
     {
-      "address": "0x43632E3448cd47440fEE797258081414D91A58cE",
+      "address": "0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
       "chainId": 1,
       "name": "Armor NXM",
       "symbol": "arNXM",
@@ -1371,10 +1375,18 @@
       "symbol": "POOL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14003/small/PoolTogether.png?1613585632"
+    },
+    {
+      "address": "0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8",
+      "chainId": 1,
+      "name": "RULER",
+      "symbol": "RULER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8/logo.png"
     }
   ],
   "version": {
-    "major": 68,
+    "major": 70,
     "minor": 0,
     "patch": 0
   }
