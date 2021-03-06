@@ -30,8 +30,9 @@ jobs:
           git config user.email github-actions@github.com
           git checkout -B lists
           git add *.json -f
-          git commit -m "chore(sync): sushiswap: $(date)" -a || true
-          git tag `date "+lists-%Y%m%d"`
+          d=$(date "+lists-%Y%m%d%H%M%S")
+          git commit -m "chore(sync): sushiswap: $(d)" -a || true
+          git tag `date "+lists-%Y%m%d%H%M%S"`
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
