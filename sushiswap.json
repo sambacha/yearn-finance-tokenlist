@@ -1455,10 +1455,18 @@
     "symbol": "RLC",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x607F4C5BB672230e8672085532f7e901544a7375/logo.png"
+  },
+  {
+    "address": "0x1062aD0E59fa67fa0b27369113098cC941Dd0D5F",
+    "chainId": 1,
+    "name": "UMA 35 CALL",
+    "symbol": "UMAc35-0421",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/10951/small/UMA.png?1586307916"
   }
   ],
   "version": {
-    "major": 71,
+    "major": 72,
     "minor": 0,
     "patch": 0
   }
