@@ -1,7 +1,7 @@
 # .kodiak.toml
 [merge]
 delete_branch_on_merge = true
-automerge_label = ["🍣 - snyc tokenlist"]
+automerge_label = ["🍣 - snyc tokenlist", "automerge"]
 
 
 [merge.automerge_dependencies]
