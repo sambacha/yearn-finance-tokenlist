@@ -1,5 +1,8 @@
 package-lock.json
-
+*.zip
+*.tar.gz
+*.tar
+.DS_Store
 # Logs
 logs
 *.log
