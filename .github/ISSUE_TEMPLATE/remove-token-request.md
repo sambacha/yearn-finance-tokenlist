@@ -1,7 +1,7 @@
 ---
 name: Remove token request
 about: Remove a token from the tokenlist.
-title: "Request: remove {Token name}"
+title: 'Request: remove {Token name}'
 labels: remove-request
 ---
 
