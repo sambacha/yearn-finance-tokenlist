@@ -50,7 +50,8 @@ jobs:
           token: ${{ secrets.PAT }}
           author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           signoff: false
-          branch: tokenlists
+          base: ${{ github.head_ref }}
+          branch: ${{ github.ref }}
           delete-branch: true
           title: '[SushiSwap] Update Tokenlist'
           body: |
