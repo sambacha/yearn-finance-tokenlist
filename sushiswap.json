@@ -782,7 +782,7 @@
       "name": "NFTX",
       "symbol": "NFTX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13574/small/nftx.png?1609880030"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x87d73E916D7057945c9BcD8cdd94e42A6F47f776/logo.png"
     },
     {
       "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
@@ -814,7 +814,7 @@
       "name": "Punk",
       "symbol": "PUNK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/Punk_Icon_Big.png"
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-cryptopunks-40-1.png"
     },
     {
       "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
@@ -873,7 +873,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13748/small/armor.png?1611425846"
     },
     {
-      "address": "0x43632E3448cd47440fEE797258081414D91A58cE",
+      "address": "0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
       "chainId": 1,
       "name": "Armor NXM",
       "symbol": "arNXM",
@@ -1036,7 +1036,7 @@
       "address": "0x0fe629d1E84E171f8fF0C1Ded2Cc2221Caa48a3f",
       "chainId": 1,
       "name": "NFTX Hashmasks Index",
-      "symbol": "MASK",
+      "symbol": "MASK/HashMasks",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13873/small/nftx.png?1612448203"
     },
@@ -1103,10 +1103,410 @@
       "symbol": "oneBTC",
       "decimals": 9,
       "logoURI": "https://www.ichi.farm/static/media/oneBTC.3ddd7597.svg"
-    }
+    },
+    {
+      "address": "0xf99d58e463A2E07e5692127302C20A191861b4D6",
+      "chainId": 1,
+      "name": "Anyswap",
+      "symbol": "ANY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/anyswap/Brand-assets/master/logo/c-256-color-2%403x.png"
+    },
+    {
+      "address": "0x945Facb997494CC2570096c74b5F66A3507330a1",
+      "chainId": 1,
+      "name": "mStable BTC",
+      "symbol": "mBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/mstable_logo_asssets_circle_mBTC%20(1).png"
+    },
+    {
+      "address": "0xDFe66B14D37C77F4E9b180cEb433d1b164f0281D",
+      "chainId": 1,
+      "name": "stakedETH",
+      "symbol": "stETH/StakeHound",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/stETH.png"
+    },
+    {
+      "address": "0xAE1eaAE3F627AAca434127644371b67B18444051",
+      "chainId": 1,
+      "name": "YOP",
+      "symbol": "YOP",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/YOP-trimera200.png"
+    },
+    {
+      "address": "0xEF5C6A88710a3C857105058F947D249bc490909D",
+      "chainId": 1,
+      "name": "wanWASP",
+      "symbol": "wanWASP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/wasp.jpg"
+    },
+    {
+      "address": "0x69BbE2FA02b4D90A944fF328663667DC32786385",
+      "chainId": 1,
+      "name": "Punk-Basic",
+      "symbol": "PUNK-BASIC",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-basic-40.png"
+    },
+    {
+      "address": "0x27Ffed7E5926Fb2795fC85aAab558243F280A8a2",
+      "chainId": 1,
+      "name": "Punk-Female",
+      "symbol": "PUNK-FEMALE",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-female-40.png"
+    },
+    {
+      "address": "0x49706a576bb823cdE3180C930F9947d59e2deD4D",
+      "chainId": 1,
+      "name": "Punk-Attr-4",
+      "symbol": "PUNK-ATTR-4",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-attr-4-40.png"
+    },
+    {
+      "address": "0xAB9c92A9337A1494C6D545E48187Fa37144403c8",
+      "chainId": 1,
+      "name": "Punk-Attr-5",
+      "symbol": "PUNK-ATTR-5",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-attr-5-40.png"
+    },
+    {
+      "address": "0xF18ade29a225fAa555e475eE01F9Eb66eb4a3a74",
+      "chainId": 1,
+      "name": "Punk-Zombie",
+      "symbol": "PUNK-ZOMBIE",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-zombies-40.png"
+    },
+    {
+      "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
+      "chainId": 1,
+      "name": "VesperToken",
+      "symbol": "VSP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/vesper_logo.png"
+    },
+    {
+      "address": "0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B",
+      "chainId": 1,
+      "name": "Jarvis Synthetic Euro",
+      "symbol": "jEUR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B/logo.png"
+    },
+    {
+      "address": "0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0",
+      "chainId": 1,
+      "name": "Jarvis Synthetic Swiss Franc",
+      "symbol": "jCHF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x53dfEa0A8CC2A2A2e425E1C174Bc162999723ea0/logo.png"
+    },
+    {
+      "address": "0x7409856CAE628f5d578B285B45669b36E7005283",
+      "chainId": 1,
+      "name": "Jarvis Synthetic British Pound",
+      "symbol": "jGBP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7409856CAE628f5d578B285B45669b36E7005283/logo.png"
+    },
+    {
+      "address": "0xE0aD1806Fd3E7edF6FF52Fdb822432e847411033",
+      "chainId": 1,
+      "name": "OnX.finance",
+      "symbol": "ONX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/onx.png"
+    },
+    {
+      "address": "0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
+      "chainId": 1,
+      "name": "Premia",
+      "symbol": "PREMIA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70/logo.png"
+    },
+    {
+      "address": "0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be",
+      "chainId": 1,
+      "name": "Wrapped SCRT",
+      "symbol": "WSCRT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/13767/small/Secret_S_Black_Coingecko.png?1611667298"
+    },
+    {
+      "address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+      "chainId": 1,
+      "name": "Neutrino USD",
+      "symbol": "USDN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/10117/small/78GWcZu.png?1600845716"
+    },
+    {
+      "address": "0x5245C0249e5EEB2A0838266800471Fd32Adb1089",
+      "chainId": 1,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/13928/small/PSigc4ie_400x400.jpg?1612875614"
+    },
+    {
+      "address": "0x1456688345527bE1f37E9e627DA0837D6f08C925",
+      "chainId": 1,
+      "name": "USDP Stablecoin",
+      "symbol": "USDP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/iearn-finance/yearn-assets/master/icons/tokens/0x1456688345527bE1f37E9e627DA0837D6f08C925/logo-128.png"
+    },
+    {
+      "address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
+      "chainId": 1,
+      "name": "COL",
+      "symbol": "COL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/iearn-finance/yearn-assets/master/icons/tokens/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55/logo-128.png"
+    },
+    {
+      "address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
+      "chainId": 1,
+      "name": "DAO Maker",
+      "symbol": "DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/0x0f51bb10119727a7e5ea3538074fb341f56b09ad.png"
+    },
+    {
+      "address": "0x9D79d5B61De59D882ce90125b18F74af650acB93",
+      "chainId": 1,
+      "name": "Neutrino System Base Token",
+      "symbol": "NSBT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/2021-02-21%2019.49.17.jpg"
+    },
+    {
+      "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+      "chainId": 1,
+      "name": "The Graph",
+      "symbol": "GRT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566"
+    },
+    {
+      "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
+      "chainId": 1,
+      "name": "Offshift",
+      "symbol": "XFT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/xft_logo.png"
+    },
+    {
+      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "chainId": 1,
+      "name": "0x",
+      "symbol": "ZRX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/863/small/0x.png?1547034672"
+    },
+    {
+      "address": "0x24A6A37576377F63f194Caa5F518a60f45b42921",
+      "chainId": 1,
+      "name": "Float Bank",
+      "symbol": "BANK",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/floatbank_32.png"
+    },
+    {
+      "address": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
+      "chainId": 1,
+      "name": "Linear Token",
+      "symbol": "LINA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12509/small/linear.jpg?1606884470"
+    },
+    {
+      "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+      "chainId": 1,
+      "name": "Perpetual Protocol",
+      "symbol": "PERP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12381/small/perpetual_protocol_logo.jpg?1599469619"
+    },
+    {
+      "address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
+      "chainId": 1,
+      "name": "Unit Protocol",
+      "symbol": "DUCK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13359/small/unit_telegram.png?1607878022"
+    },
+    {
+      "address": "0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
+      "chainId": 1,
+      "name": "DEXTF",
+      "symbol": "DEXTF",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12634/small/DEXTFiconNEGATIVE-page-001.jpg?1601349042"
+    },
+    {
+      "address": "0x888888435FDe8e7d4c54cAb67f206e4199454c60",
+      "chainId": 1,
+      "name": "DFX",
+      "symbol": "DFX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/DFX%20-%20Final%20Logo%20(solo).png"
+    },
+    {
+      "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+      "chainId": 1,
+      "name": "Alchemix",
+      "symbol": "ALCX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/alchemix.jpg"
+    },
+    {
+      "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
+      "chainId": 1,
+      "name": "PoolTogether",
+      "symbol": "POOL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/small/PoolTogether.png?1613585632"
+    },
+    {
+      "address": "0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8",
+      "chainId": 1,
+      "name": "RULER",
+      "symbol": "RULER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8/logo.png"
+    },
+    {
+    "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "chainId": 1,
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=010"
+  },
+  {
+    "address": "0x19D97D8fA813EE2f51aD4B4e04EA08bAf4DFfC28",
+    "chainId": 1,
+    "name": "Badger Sett Badger",
+    "symbol": "bBADGER",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x19D97D8fA813EE2f51aD4B4e04EA08bAf4DFfC28/logo.png"
+  },
+  {
+    "address": "0x7e7E112A68d8D2E221E11047a72fFC1065c38e1a",
+    "chainId": 1,
+    "name": "Badger Sett Digg",
+    "symbol": "bDIGG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7e7E112A68d8D2E221E11047a72fFC1065c38e1a/logo.png"
+  },
+  {
+    "address": "0x99fE3B1391503A1bC1788051347A1324bff41452",
+    "chainId": 1,
+    "name": "SportX",
+    "symbol": "SX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x99fE3B1391503A1bC1788051347A1324bff41452/logo.png"
+  },
+  {
+    "address": "0x9ba60bA98413A60dB4C651D4afE5C937bbD8044B",
+    "chainId": 1,
+    "name": "Yearn Lazy Ape Index",
+    "symbol": "YLA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9ba60bA98413A60dB4C651D4afE5C937bbD8044B/logo.png"
+  },
+  {
+    "address": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
+    "chainId": 1,
+    "name": "Mask Network",
+    "symbol": "MASK/MaskNetwork",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074/logo.png"
+  },
+  {
+    "address": "0x297D33e17e61C2Ddd812389C2105193f8348188a",
+    "chainId": 1,
+    "name": "Strudel Finance",
+    "symbol": "TRDL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x297D33e17e61C2Ddd812389C2105193f8348188a/logo.png"
+  },
+  {
+    "address": "0x7BD198b9107496fD5cC3d7655AF52f43a8eDBc4C",
+    "chainId": 1,
+    "name": "oneVBTC",
+    "symbol": "oneVBTC",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7BD198b9107496fD5cC3d7655AF52f43a8eDBc4C/logo.png"
+  },
+  {
+    "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
+    "chainId": 1,
+    "name": "RLC",
+    "symbol": "RLC",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x607F4C5BB672230e8672085532f7e901544a7375/logo.png"
+  },
+  {
+    "address": "0x1062aD0E59fa67fa0b27369113098cC941Dd0D5F",
+    "chainId": 1,
+    "name": "UMA 35 CALL",
+    "symbol": "UMAc35-0421",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/10951/small/UMA.png?1586307916"
+  },
+  {
+    "address": "0x2aA5cE395b00CC486159aDbDD97c55b535CF2cf9",
+    "chainId": 1,
+    "name": "Elastic Governance",
+    "symbol": "EGT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/egt_logo.png"
+  },
+  {
+    "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+    "chainId": 1,
+    "name": "Must",
+    "symbol": "MUST",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f/logo.png"
+  },
+  {
+    "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+    "chainId": 1,
+    "name": "Wootrade Network",
+    "symbol": "WOO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4691937a7508860F876c9c0a2a617E7d9E945D4B/logo.png"
+  },
+  {
+    "address": "0xb58DFBB72e648a0b035B8C85B3628123CC9bb881",
+    "chainId": 1,
+    "name": "MIS2",
+    "symbol": "MIS2",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xb58DFBB72e648a0b035B8C85B3628123CC9bb881/logo.png"
+  },
+  {
+    "address": "0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2",
+    "chainId": 1,
+    "name": "Poly Ontology Token",
+    "symbol": "pONT",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2/logo.png"
+  }
   ],
   "version": {
-    "major": 39,
+    "major": 75,
     "minor": 0,
     "patch": 0
   }
