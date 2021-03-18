@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "info": {
+      "type": "object",
+      "properties": {
+        "currency": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "currency"
+      ]
+    },
+    "tokens": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "address": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "buyable": {
+              "type": "boolean"
+            },
+            "symbol": {
+              "type": "string"
+            },
+            "decimals": {
+              "type": "integer"
+            },
+            "sendable": {
+              "type": "boolean"
+            },
+            "dailyLimit": {
+              "type": "boolean"
+            },
+            "category": {
+              "type": "string"
+            },
+            "refundable": {
+              "type": "boolean"
+            },
+            "spotPrice": {
+              "type": "object",
+              "properties": {
+                "date": {
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "date"
+              ]
+            },
+            "tokenlist": {
+              "type": "boolean"
+            }
+          },
+          "required": [
+            "id",
+            "address",
+            "name",
+            "buyable",
+            "symbol",
+            "decimals",
+            "sendable",
+            "dailyLimit",
+            "category",
+            "refundable",
+            "spotPrice",
+            "tokenlist"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "info",
+    "tokens"
+  ]
+}
