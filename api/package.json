@@ -1,7 +1,13 @@
 {
   "name": "yearn-tokenlist-api",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
+  "files": [ "scripts/*", "src/*"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sambacha/yearn-finance-tokenlist.git",
+    "directory": "api/"
+  },
   "scripts": {
     "build-list:all": "yarn build-list:erc20-mainnet && yarn build-list:erc721-mainnet && yarn build-list:erc1155-mainnet && yarn scrape-open-graph",
     "build-list:erc20-mainnet": "ts-node ./scripts/erc20-mainnet.ts && yarn run lint:fix-json",
@@ -10,8 +16,8 @@
     "scrape-open-graph": "ts-node ./scripts/open-graph-scrapper.ts && yarn run lint:fix-json",
     "lint:fix-json": "prettier --write \"../index/**/*.json\""
   },
-  "author": "",
-  "license": "ISC",
+  "author": "sam bacha <sam@freighttrust.com>",
+  "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "2.0.2",
     "@openzeppelin/contracts": "3.4.1",
@@ -21,6 +27,7 @@
     "@types/node": "14.14.35",
     "@types/node-fetch": "2.5.8",
     "@uniswap/token-lists": "1.0.0-beta.19",
+    "@0xsequence/collectible-lists": "1.1.0",
     "ajv": "6.12.2",
     "ajv-formats": "1.5.1",
     "cli-progress": "3.9.0",
