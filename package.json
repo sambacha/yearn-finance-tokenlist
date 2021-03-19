@@ -1,8 +1,13 @@
 {
   "name": "yearn-tokenlist",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Yearn Finance tokenlist with schema validation",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sambacha/yearn-finance-tokenlist.git",
+    "directory": "/"
+  },
   "main": "index.mjs",
   "devDependencies": {
     "@ethersproject/address": "5.0.11",
