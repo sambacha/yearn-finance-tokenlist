@@ -3,6 +3,11 @@
   "version": "1.0.2",
   "main": "index.js",
   "files": [ "scripts/*", "src/*"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sambacha/yearn-finance-tokenlist.git",
+    "directory": "api/"
+  },
   "scripts": {
     "build-list:all": "yarn build-list:erc20-mainnet && yarn build-list:erc721-mainnet && yarn build-list:erc1155-mainnet && yarn scrape-open-graph",
     "build-list:erc20-mainnet": "ts-node ./scripts/erc20-mainnet.ts && yarn run lint:fix-json",
