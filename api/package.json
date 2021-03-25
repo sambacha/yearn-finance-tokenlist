@@ -24,7 +24,7 @@
     "@types/fs-extra": "9.0.8",
     "@types/lodash.isequal": "4.5.5",
     "@types/lodash.kebabcase": "4.1.6",
-    "@types/node": "14.14.35",
+    "@types/node": "14.14.36",
     "@types/node-fetch": "2.5.8",
     "@uniswap/token-lists": "1.0.0-beta.19",
     "@0xsequence/collectible-lists": "1.1.0",
