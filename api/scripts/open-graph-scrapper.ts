@@ -1,26 +1,17 @@
 // @file graphql scrapper
 import * as fs from 'fs';
 import { YearnInfo, YearnList, schema as yearn_schema } from 'yearn-tokenlist';
-import {
-  TokenInfo,
-  TokenList,
-  schema as token_schema,
-} from '@uniswap/token-lists';
+import { TokenInfo, TokenList, schema as token_schema } from '@uniswap/token-lists';
 const cliProgress = require('cli-progress');
 const Ajv = require('ajv');
 const ogs = require('open-graph-scraper');
 
 // Progress bar
-const progressBar = new cliProgress.SingleBar(
-  {},
-  cliProgress.Presets.shades_classic,
-);
+const progressBar = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
 
 const main = async () => {
   // Get all token list files
-  let folders = fs
-    .readdirSync('../index/')
-    .filter((folder) => !folder.includes('.'));
+  let folders = fs.readdirSync('../index/').filter((folder) => !folder.includes('.'));
   let files: string[] = folders.reduce((files: string[], folder: string) => {
     const currentFiles: string[] = fs.readdirSync('../index/' + folder);
     currentFiles.forEach((file) => {
@@ -49,11 +40,7 @@ const main = async () => {
           const graph = await ogs({ url: t.extensions.link, timeout: 5000 });
           const image = graph.result ? (await graph.result).ogImage : null;
           //@ts-ignore
-          list.tokens[j].extensions.ogImage = image
-            ? image.url
-              ? image.url
-              : null
-            : null;
+          list.tokens[j].extensions.ogImage = image ? (image.url ? image.url : null) : null;
         } catch (e) {
           //@ts-ignore
           list.tokens[j].extensions.ogImage = null;
@@ -68,9 +55,7 @@ const main = async () => {
 
     // Validate list against schema
     const ajv = new Ajv();
-    const validateList = ajv.compile(
-      f.includes('erc20') ? token_schema : yearn_schema,
-    );
+    const validateList = ajv.compile(f.includes('erc20') ? token_schema : yearn_schema);
 
     if (!validateList(list)) {
       console.log('New list has invalid schema: ');
@@ -78,14 +63,9 @@ const main = async () => {
       //throw Error("^^^")
     }
 
-    fs.writeFile(
-      list_path,
-      JSON.stringify(list),
-      { flag: 'w+' },
-      function (err) {
-        if (err) throw err;
-      },
-    );
+    fs.writeFile(list_path, JSON.stringify(list), { flag: 'w+' }, function (err) {
+      if (err) throw err;
+    });
   }
 };
 
@@ -95,4 +75,4 @@ main()
   })
   .catch((error) => {
     console.error(error);
-});
+  });

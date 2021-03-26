@@ -9,9 +9,7 @@
           "type": "string"
         }
       },
-      "required": [
-        "currency"
-      ]
+      "required": ["currency"]
     },
     "tokens": {
       "type": "array",
@@ -56,9 +54,7 @@
                   "type": "integer"
                 }
               },
-              "required": [
-                "date"
-              ]
+              "required": ["date"]
             },
             "tokenlist": {
               "type": "boolean"
@@ -82,8 +78,5 @@
       ]
     }
   },
-  "required": [
-    "info",
-    "tokens"
-  ]
+  "required": ["info", "tokens"]
 }

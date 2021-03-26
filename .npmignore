@@ -1,0 +1,6 @@
+.github/
+api/
+.prettierrc.js
+.kodiak.toml
+img/
+renovate.json 
