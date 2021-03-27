@@ -12,7 +12,7 @@
   "main": "index.mjs",
   "devDependencies": {
     "@ethersproject/address": "5.0.11",
-    "@uniswap/token-lists": "1.0.0-beta.19",
+    "@uniswap/token-lists": "1.0.0-beta.21",
     "ajv": "6.12.6",
     "chai": "4.3.4",
     "json-schema-to-typescript": "^10.1.3",
