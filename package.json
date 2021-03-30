@@ -9,7 +9,8 @@
     "url": "https://github.com/sambacha/yearn-finance-tokenlist.git",
     "directory": "/"
   },
-  "main": "index.mjs",
+  "main": "index.js",
+  "files": ["index.js", "index.mjs", "sushiswap.json", "yearn.json", "tokens.json"],
   "devDependencies": {
     "@ethersproject/address": "5.0.11",
     "@uniswap/token-lists": "1.0.0-beta.21",
