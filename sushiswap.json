@@ -1615,10 +1615,34 @@
     "symbol": "tfTUSD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xa1e72267084192Db7387c8CC1328fadE470e4149/logo.png"
+  },
+  {
+    "address": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+    "chainId": 1,
+    "name": "Illuvium",
+    "symbol": "ILV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E/logo.png"
+  },
+  {
+    "address": "0x9EA3b5b4EC044b70375236A281986106457b20EF",
+    "chainId": 1,
+    "name": "DELTA",
+    "symbol": "DELTA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9EA3b5b4EC044b70375236A281986106457b20EF/logo.png"
+  },
+  {
+    "address": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
+    "chainId": 1,
+    "name": "SIREN",
+    "symbol": "SI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de/logo.png"
   }
   ],
   "version": {
-    "major": 79,
+    "major": 82,
     "minor": 0,
     "patch": 0
   }
