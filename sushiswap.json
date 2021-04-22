@@ -1655,10 +1655,18 @@
     "symbol": "SI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de/logo.png"
+  },
+  {
+    "address": "0x8F5E78888f8933Ed676a62bB6B58a4b279aBE408",
+    "chainId": 1,
+    "name": "stakedXYM",
+    "symbol": "stXYM",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8F5E78888f8933Ed676a62bB6B58a4b279aBE408/logo.png"
   }
   ],
   "version": {
-    "major": 84,
+    "major": 85,
     "minor": 0,
     "patch": 0
   }
