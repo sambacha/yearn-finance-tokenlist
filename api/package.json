@@ -32,7 +32,7 @@
     "@types/node-fetch": "2.5.10",
     "@uniswap/token-lists": "1.0.0-beta.21",
     "ajv": "6.12.6",
-    "ajv-formats": "2.0.1",
+    "ajv-formats": "2.1.0",
     "cli-progress": "3.9.0",
     "dotenv": "8.2.0",
     "ethers": "5.1.4",
