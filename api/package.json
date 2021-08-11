@@ -41,7 +41,7 @@
     "lodash.isequal": "4.5.0",
     "lodash.kebabcase": "4.1.1",
     "node-fetch": "2.6.1",
-    "open-graph-scraper": "4.9.0",
+    "open-graph-scraper": "4.9.1",
     "prettier": "2.2.1",
     "ts-node": "9.1.1",
     "typescript": "4.2.3"
